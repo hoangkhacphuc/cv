@@ -1,5 +1,4 @@
-# Giới thiệu dự án
-## 1. Website bán đồ ăn online
+# Giới thiệu dự án - Website bán đồ ăn online
 `Website:` [Website bán đồ ăn online](https://food.hoangkhacphuc.tech/) 
 ```
 Tài khoản admin: admin
