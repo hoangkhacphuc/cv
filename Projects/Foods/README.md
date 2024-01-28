@@ -1,6 +1,6 @@
 # Giới thiệu dự án
 ## 1. Website bán đồ ăn online
-`Website:` [Website bán đồ ăn online](https://food.wenex.vn/) 
+`Website:` [Website bán đồ ăn online](https://food.hoangkhacphuc.tech/) 
 ```
 Tài khoản admin: admin
 Mật khẩu: 123456

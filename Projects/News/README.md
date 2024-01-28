@@ -1,6 +1,6 @@
 # Giới thiệu dự án
 ## 1. Website giới thiệu doanh nghiệp
-`Website:` [Website giới thiệu doanh nghiệp](https://news.wenex.vn/) 
+`Website:` [Website giới thiệu doanh nghiệp](https://news.hoangkhacphuc.tech/) 
 ```
 Tài khoản admin: admin@gmail.com
 Mật khẩu: 123456
