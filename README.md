@@ -12,5 +12,5 @@
 `Xem chi tiết:` [Website bán đồ ăn online](./Projects/Foods/README.md) 
 
 ## 4. Website bán đồ chơi trẻ em
-![Website bán đồ chơi trẻ em](./Images/news.png)
+![Website bán đồ chơi trẻ em](./Images/toys.png)
 `Xem chi tiết:` [Website bán đồ chơi trẻ em](./Projects/Toys/README.md) 
